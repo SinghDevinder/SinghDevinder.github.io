@@ -1,6 +1,10 @@
 ---
 layout: post
 title: You're up and running!
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2021-10-02T12:49:30-05:00
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
