@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature Management : Feature Name is blank/not showing up on the user interface of Dynamics 365 Finance and operations
+title: Feature Management Feature Name is blank/not showing up on the user interface of Dynamics 365 Finance and operations
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
