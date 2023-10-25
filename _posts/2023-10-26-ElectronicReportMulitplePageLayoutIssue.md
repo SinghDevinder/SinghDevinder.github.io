@@ -23,12 +23,12 @@ The above issue got resolved.
  
 ###For future reference, we needed to adjust the Excel template using the "View->Page Break Preview" and realign the size.
 
-![ExcelTemplate](./images/ElectronicReportMulitplePageLayoutIssue_template.png)
+![ExcelTemplate](../images/ElectronicReportMulitplePageLayoutIssue_template.png)
  
 ###set Adjust Row Height to true in the designer
 
- ![AdjustRowHeight](./images/ElectronicReportMulitplePageLayoutIssue_AdjustRowHeight.png)
+ ![AdjustRowHeight](../images/ElectronicReportMulitplePageLayoutIssue_AdjustRowHeight.png)
  
 ###Keep Rows Together in the range
 
- ![KeepRowsTogether](./images/ElectronicReportMulitplePageLayoutIssue_KeepRowsTogether.png)
+ ![KeepRowsTogether](../images/ElectronicReportMulitplePageLayoutIssue_KeepRowsTogether.png)
