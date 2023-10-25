@@ -4,7 +4,7 @@ title: "Electronic Reporting : Layout issue : Report data is overlapping on othe
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2021-10-05T12:49:30-05:00
+    lastmod: 2023-10-26T00:00:30-05:00
 ---
 ## Details :
 - Electronic Reporting in Dynamics finance and operations
